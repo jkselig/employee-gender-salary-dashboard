@@ -57,6 +57,8 @@ The dashboard includes:
 - Area graph displaying department manager activity across years
 - Bar charts showing average salary by department and gender
 - A dual bar chart driven by a stored procedure that compares average male and female salaries within a user-defined salary range
+![Dashboard Preview](dashboard_preview.png)
+
 
 ---
 
